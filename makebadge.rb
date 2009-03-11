@@ -1,3 +1,4 @@
+# include neccesary files
 require 'rmagick'
 include Magick
 
